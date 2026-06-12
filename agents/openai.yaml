@@ -1,0 +1,7 @@
+interface:
+  display_name: "双顾问思维"
+  short_description: "通过两位对立顾问获得更清晰的判断"
+  default_prompt: "使用 $dual-advisor-thinking 通过两位对立顾问分析我的问题，并给出清晰的综合判断。"
+
+policy:
+  allow_implicit_invocation: true
